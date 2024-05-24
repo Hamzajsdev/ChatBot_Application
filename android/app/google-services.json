@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815803030495",
+    "project_id": "audiochatapp-3bfdb",
+    "storage_bucket": "audiochatapp-3bfdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815803030495:android:f150e8e61b698611c1826a",
+        "android_client_info": {
+          "package_name": "com.audiochatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFy1XDmjZfyiNBqeXFUTyY7umLuE9W0ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
